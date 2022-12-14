@@ -23,6 +23,9 @@ If applicable, add screenshots to help explain your problem.
 **Game/Mod Information (please complete the following information):**
  - Tool Version [e.g. 0.1]
  - P3D Editor Version [e.g. 4]
+ 
+**DxDiag (This gives me system specs):**
+Run dxdiag.exe and then click Save All Information, then just include the .txt file it creates.
 
 **Additional context**
 Add any other context about the problem here.
